@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# BC2001: no se encontró el archivo 'C:\Users\Jonatan Arburúa\source\repos\Basededatos\Basededatos\SQLForm.Designer.vb'
+dotnet_diagnostic.BC2001.severity = none
